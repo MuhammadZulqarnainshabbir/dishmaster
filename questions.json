@@ -1,0 +1,23 @@
+
+[
+    { "question": "What type of cuisine are you interested in?", "context": "cuisine_preference" },
+    { "question": "Do you have any dietary restrictions or preferences?", "context": "dietary_restrictions" },
+    { "question": "Are you looking for a specific meal type? (e.g., breakfast, lunch, dinner)", "context": "meal_type" },
+    { "question": "Are there any specific ingredients you want to include or avoid?", "context": "ingredient_preference" },
+    { "question": "How much time do you have for cooking? (e.g., 30 minutes, 1 hour)", "context": "cooking_time" },
+    { "question": "What's your cooking skill level? (e.g., beginner, intermediate, expert)", "context": "skill_level" },
+    { "question": "How many servings do you need?", "context": "number_of_servings" },
+    { "question": "Do you have a favorite cuisine?", "context": "favorite_cuisine" },
+    { "question": "What's your favorite dish?", "context": "favorite_dish" },
+    { "question": "Do you have any food allergies?", "context": "allergies" },
+    { "question": "Do you have a preferred cooking method? (e.g., baking, grilling, frying)", "context": "cooking_method" },
+    { "question": "How spicy do you like your food? (e.g., mild, medium, hot)", "context": "spice_level" },
+    { "question": "Do you have a budget for ingredients?", "context": "budget" },
+    { "question": "Is this for a special occasion?", "context": "occasion" },
+    { "question": "Are you looking for healthy options?", "context": "healthy_options" },
+    { "question": "Do you want to make extra for leftovers?", "context": "leftovers" },
+    { "question": "Do you have any special kitchen equipment? (e.g., slow cooker, air fryer)", "context": "kitchen_equipment" },
+    { "question": "What time do you usually have your meals?", "context": "meal_time" },
+    { "question": "Do you have any other preferences or requirements?", "context": "additional_preferences" }
+  ]
+  

@@ -1,0 +1,163 @@
+[
+    {
+      "ingredient": "banana",
+      "nutrition": "A banana has approximately 105 calories."
+    },
+    {
+      "ingredient": "apple",
+      "nutrition": "An apple has approximately 95 calories."
+    },
+    {
+      "ingredient": "orange",
+      "nutrition": "An orange has approximately 62 calories."
+    },
+    {
+      "ingredient": "strawberry",
+      "nutrition": "A strawberry has approximately 4 calories."
+    },
+    {
+      "ingredient": "blueberry",
+      "nutrition": "A blueberry has approximately 1 calorie."
+    },
+    {
+      "ingredient": "grape",
+      "nutrition": "A grape has approximately 2 calories."
+    },
+    {
+      "ingredient": "watermelon",
+      "nutrition": "A cup of watermelon has approximately 46 calories."
+    },
+    {
+      "ingredient": "pineapple",
+      "nutrition": "A cup of pineapple has approximately 82 calories."
+    },
+    {
+      "ingredient": "mango",
+      "nutrition": "A mango has approximately 201 calories."
+    },
+    {
+      "ingredient": "avocado",
+      "nutrition": "An avocado has approximately 234 calories."
+    },
+    {
+      "ingredient": "carrot",
+      "nutrition": "A carrot has approximately 25 calories."
+    },
+    {
+      "ingredient": "broccoli",
+      "nutrition": "A cup of broccoli has approximately 55 calories."
+    },
+    {
+      "ingredient": "spinach",
+      "nutrition": "A cup of spinach has approximately 7 calories."
+    },
+    {
+      "ingredient": "kale",
+      "nutrition": "A cup of kale has approximately 33 calories."
+    },
+    {
+      "ingredient": "potato",
+      "nutrition": "A potato has approximately 163 calories."
+    },
+    {
+      "ingredient": "sweet potato",
+      "nutrition": "A sweet potato has approximately 112 calories."
+    },
+    {
+      "ingredient": "tomato",
+      "nutrition": "A tomato has approximately 22 calories."
+    },
+    {
+      "ingredient": "cucumber",
+      "nutrition": "A cucumber has approximately 16 calories."
+    },
+    {
+      "ingredient": "bell pepper",
+      "nutrition": "A bell pepper has approximately 24 calories."
+    },
+    {
+      "ingredient": "onion",
+      "nutrition": "An onion has approximately 44 calories."
+    },
+    {
+      "ingredient": "garlic",
+      "nutrition": "A clove of garlic has approximately 4 calories."
+    },
+    {
+      "ingredient": "ginger",
+      "nutrition": "A tablespoon of ginger has approximately 5 calories."
+    },
+    {
+      "ingredient": "chicken breast",
+      "nutrition": "A chicken breast has approximately 165 calories."
+    },
+    {
+      "ingredient": "salmon",
+      "nutrition": "A fillet of salmon has approximately 367 calories."
+    },
+    {
+      "ingredient": "beef",
+      "nutrition": "A serving of beef has approximately 250 calories."
+    },
+    {
+      "ingredient": "pork",
+      "nutrition": "A serving of pork has approximately 242 calories."
+    },
+    {
+      "ingredient": "tofu",
+      "nutrition": "A serving of tofu has approximately 94 calories."
+    },
+    {
+      "ingredient": "egg",
+      "nutrition": "An egg has approximately 72 calories."
+    },
+    {
+      "ingredient": "milk",
+      "nutrition": "A cup of milk has approximately 103 calories."
+    },
+    {
+      "ingredient": "cheese",
+      "nutrition": "A slice of cheese has approximately 113 calories."
+    },
+    {
+      "ingredient": "yogurt",
+      "nutrition": "A cup of yogurt has approximately 149 calories."
+    },
+    {
+      "ingredient": "almond",
+      "nutrition": "An almond has approximately 7 calories."
+    },
+    {
+      "ingredient": "walnut",
+      "nutrition": "A walnut has approximately 26 calories."
+    },
+    {
+      "ingredient": "peanut",
+      "nutrition": "A peanut has approximately 6 calories."
+    },
+    {
+      "ingredient": "cashew",
+      "nutrition": "A cashew has approximately 9 calories."
+    },
+    {
+      "ingredient": "rice",
+      "nutrition": "A cup of rice has approximately 206 calories."
+    },
+    {
+      "ingredient": "quinoa",
+      "nutrition": "A cup of quinoa has approximately 222 calories."
+    },
+    {
+      "ingredient": "bread",
+      "nutrition": "A slice of bread has approximately 79 calories."
+    },
+    {
+      "ingredient": "pasta",
+      "nutrition": "A cup of pasta has approximately 200 calories."
+    },
+    {
+      "ingredient": "oatmeal",
+      "nutrition": "A cup of oatmeal has approximately 154 calories."
+    }
+  ]
+  

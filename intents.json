@@ -1,0 +1,161 @@
+[
+  {
+    "intent": "initial_greeting",
+    "keywords": ["hi", "hello", "hey", "start"],
+    "response": "Hi! I'm your recipe assistant. I'll ask you a series of questions that will help me in personalizing my output for you. Let's start with the first question.",
+    "question": "",
+    "context": "cuisine",
+    "answer": ""
+  },
+  {
+    "intent": "cuisine_preference",
+    "keywords": ["italian", "mexican", "chinese", "indian", "any", "doesn't matter", "type of cuisine", "any cuisine", "all cuisines"],
+    "response": "Do you have any dietary restrictions or preferences?",
+    "question": "What type of cuisine are you interested in?",
+    "context": "diet",
+    "answer": ""
+  },
+  {
+    "intent": "dietary_restrictions",
+    "keywords": ["vegetarian", "vegan", "gluten-free", "none", "no", "dietary restrictions", "diet", "no restrictions", "no diet"],
+    "response": "Are you looking for a specific meal type? (e.g., breakfast, lunch, dinner)",
+    "question": "Do you have any dietary restrictions or preferences?",
+    "context": "meal",
+    "answer": ""
+  },
+  {
+    "intent": "meal_type",
+    "keywords": ["breakfast", "lunch", "dinner", "snack", "any", "meal type", "any meal", "all meals"],
+    "response": "Are there any specific ingredients you want to avoid?",
+    "question": "Are you looking for a specific meal type? (e.g., breakfast, lunch, dinner)",
+    "context": "ingredient",
+    "answer": ""
+  },
+  {
+    "intent": "ingredient_preference",
+    "keywords": [ "avoid", "chicken", "broccoli", "none", "specific ingredients", "no preference", "no ingredients"],
+    "response": "How much time do you have for cooking? (e.g., 30 minutes, 1 hour)",
+    "question": "Are there any specific ingredients you want to avoid?",
+    "context": "time",
+    "answer": ""
+  },
+  {
+    "intent": "cooking_time",
+    "keywords": ["30 minutes", "1 hour", "quick", "long", "time for cooking", "time", "short time", "long time"],
+    "response": "What's your cooking skill level? (e.g., beginner, intermediate, expert)",
+    "question": "How much time do you have for cooking? (e.g., 30 minutes, 1 hour)",
+    "context": "skill",
+    "answer": ""
+  },
+  {
+    "intent": "skill_level",
+    "keywords": ["beginner", "intermediate", "expert", "cooking skill level", "novice", "proficient", "advanced"],
+    "response": "How many servings do you need?",
+    "question": "What's your cooking skill level? (e.g., beginner, intermediate, expert)",
+    "context": "servings",
+    "answer": ""
+  },
+  {
+    "intent": "number_of_servings",
+    "keywords": ["1", "2", "family", "group", "number of servings", "how many servings", "servings"],
+    "response": "Do you have a favorite cuisine?",
+    "question": "How many servings do you need?",
+    "context": "favorite",
+    "answer": ""
+  },
+  {
+    "intent": "favorite_cuisine",
+    "keywords": ["italian", "mexican", "chinese", "indian", "no", "favorite cuisine", "preferred cuisine", "liked cuisine"],
+    "response": "What's your favorite dish?",
+    "question": "Do you have a favorite cuisine?",
+    "context": "favorite_dish",
+    "answer": ""
+  },
+  {
+    "intent": "favorite_dish",
+    "keywords": ["pizza", "pasta", "tacos", "no", "favorite dish", "preferred dish", "liked dish"],
+    "response": "Do you have any food allergies?",
+    "question": "What's your favorite dish?",
+    "context": "allergy",
+    "answer": ""
+  },
+  {
+    "intent": "allergies",
+    "keywords": ["nuts", "gluten", "dairy", "none", "no allergies", "allergy"],
+    "response": "Do you have a preferred cooking method? (e.g., baking, grilling, frying)",
+    "question": "Do you have any food allergies?",
+    "context": "method",
+    "answer": ""
+  },
+  {
+    "intent": "cooking_method",
+    "keywords": ["baking", "grilling", "frying", "no", "preferred cooking method", "cooking method", "method"],
+    "response": "How spicy do you like your food? (e.g., mild, medium, hot)",
+    "question": "Do you have a preferred cooking method? (e.g., baking, grilling, frying)",
+    "context": "spice",
+    "answer": ""
+  },
+  {
+    "intent": "spice_level",
+    "keywords": ["mild", "medium", "hot", "spice level", "spiciness", "spicy"],
+    "response": "Do you have a budget for ingredients?",
+    "question": "How spicy do you like your food? (e.g., mild, medium, hot)",
+    "context": "budget",
+    "answer": ""
+  },
+  {
+    "intent": "budget",
+    "keywords": ["low", "medium", "high", "no", "budget for ingredients", "budget", "cost"],
+    "response": "Is this for a special occasion?",
+    "question": "Do you have a budget for ingredients?",
+    "context": "occasion",
+    "answer": ""
+  },
+  {
+    "intent": "occasion",
+    "keywords": ["birthday", "anniversary", "no", "special occasion", "occasion", "event"],
+    "response": "Are you looking for healthy options?",
+    "question": "Is this for a special occasion?",
+    "context": "healthy",
+    "answer": ""
+  },
+  {
+    "intent": "healthy_options",
+    "keywords": ["yes", "no", "healthy options", "health", "healthy"],
+    "response": "Do you want to make extra for leftovers?",
+    "question": "Are you looking for healthy options?",
+    "context": "leftovers",
+    "answer": ""
+  },
+  {
+    "intent": "leftovers",
+    "keywords": ["yes", "no", "make extra for leftovers", "leftovers", "extra food"],
+    "response": "Do you have any special kitchen equipment? (e.g., slow cooker, air fryer)",
+    "question": "Do you want to make extra for leftovers?",
+    "context": "equipment",
+    "answer": ""
+  },
+  {
+    "intent": "kitchen_equipment",
+    "keywords": ["slow cooker", "air fryer", "no", "special kitchen equipment", "kitchen equipment", "equipment"],
+    "response": "What time do you usually have your meals?",
+    "question": "Do you have any special kitchen equipment? (e.g., slow cooker, air fryer)",
+    "context": "meal_time",
+    "answer": ""
+  },
+  {
+    "intent": "meal_time",
+    "keywords": ["morning", "afternoon", "evening", "time for meals", "meal time", "when do you eat"],
+    "response": "Do you have any other preferences or requirements?",
+    "question": "What time do you usually have your meals?",
+    "context": "additional_preferences",
+    "answer": ""
+  },
+  {
+    "intent": "fallback",
+    "keywords": [],
+    "response": "I'm sorry, I didn't understand that. Can you please rephrase?",
+    "question": "",
+    "context": ""
+  }
+]

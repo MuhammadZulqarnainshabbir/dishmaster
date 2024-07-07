@@ -1,0 +1,203 @@
+[
+    {
+      "intent": "substitute_eggs",
+      "keywords": ["eggs", "egg"],
+      "response": "You can use applesauce, mashed banana, or yogurt as a substitute for eggs."
+    },
+    {
+      "intent": "substitute_milk",
+      "keywords": ["milk"],
+      "response": "You can use almond milk, soy milk, or oat milk as a substitute for milk."
+    },
+    {
+      "intent": "substitute_butter",
+      "keywords": ["butter"],
+      "response": "You can use margarine, coconut oil, or olive oil as a substitute for butter."
+    },
+    {
+      "intent": "substitute_sugar",
+      "keywords": ["sugar"],
+      "response": "You can use honey, maple syrup, or agave nectar as a substitute for sugar."
+    },
+    {
+      "intent": "substitute_flour",
+      "keywords": ["flour"],
+      "response": "You can use almond flour, coconut flour, or oat flour as a substitute for flour."
+    },
+    {
+      "intent": "substitute_baking_soda",
+      "keywords": ["baking soda"],
+      "response": "You can use baking powder or club soda as a substitute for baking soda."
+    },
+    {
+      "intent": "substitute_baking_powder",
+      "keywords": ["baking powder"],
+      "response": "You can use a mixture of baking soda and cream of tartar as a substitute for baking powder."
+    },
+    {
+      "intent": "substitute_buttermilk",
+      "keywords": ["buttermilk"],
+      "response": "You can use a mixture of milk and lemon juice or vinegar as a substitute for buttermilk."
+    },
+    {
+      "intent": "substitute_cream",
+      "keywords": ["cream"],
+      "response": "You can use coconut cream or a mixture of milk and butter as a substitute for cream."
+    },
+    {
+      "intent": "substitute_cornstarch",
+      "keywords": ["cornstarch"],
+      "response": "You can use arrowroot powder, potato starch, or tapioca starch as a substitute for cornstarch."
+    },
+    {
+      "intent": "substitute_honey",
+      "keywords": ["honey"],
+      "response": "You can use maple syrup, agave nectar, or molasses as a substitute for honey."
+    },
+    {
+      "intent": "substitute_maple_syrup",
+      "keywords": ["maple syrup"],
+      "response": "You can use honey, agave nectar, or molasses as a substitute for maple syrup."
+    },
+    {
+      "intent": "substitute_molasses",
+      "keywords": ["molasses"],
+      "response": "You can use honey, maple syrup, or agave nectar as a substitute for molasses."
+    },
+    {
+      "intent": "substitute_olive_oil",
+      "keywords": ["olive oil"],
+      "response": "You can use coconut oil, avocado oil, or vegetable oil as a substitute for olive oil."
+    },
+    {
+      "intent": "substitute_vegetable_oil",
+      "keywords": ["vegetable oil"],
+      "response": "You can use olive oil, coconut oil, or avocado oil as a substitute for vegetable oil."
+    },
+    {
+      "intent": "substitute_coconut_oil",
+      "keywords": ["coconut oil"],
+      "response": "You can use olive oil, avocado oil, or vegetable oil as a substitute for coconut oil."
+    },
+    {
+      "intent": "substitute_vinegar",
+      "keywords": ["vinegar"],
+      "response": "You can use lemon juice or lime juice as a substitute for vinegar."
+    },
+    {
+      "intent": "substitute_lemon_juice",
+      "keywords": ["lemon juice"],
+      "response": "You can use lime juice or vinegar as a substitute for lemon juice."
+    },
+    {
+      "intent": "substitute_lime_juice",
+      "keywords": ["lime juice"],
+      "response": "You can use lemon juice or vinegar as a substitute for lime juice."
+    },
+    {
+      "intent": "substitute_salt",
+      "keywords": ["salt"],
+      "response": "You can use sea salt, kosher salt, or celery salt as a substitute for salt."
+    },
+    {
+      "intent": "substitute_pepper",
+      "keywords": ["pepper"],
+      "response": "You can use white pepper, cayenne pepper, or paprika as a substitute for pepper."
+    },
+    {
+      "intent": "substitute_garlic",
+      "keywords": ["garlic"],
+      "response": "You can use garlic powder, garlic salt, or shallots as a substitute for garlic."
+    },
+    {
+      "intent": "substitute_onion",
+      "keywords": ["onion"],
+      "response": "You can use onion powder, shallots, or leeks as a substitute for onion."
+    },
+    {
+      "intent": "substitute_tomato_sauce",
+      "keywords": ["tomato sauce"],
+      "response": "You can use tomato paste and water or crushed tomatoes as a substitute for tomato sauce."
+    },
+    {
+      "intent": "substitute_tomato_paste",
+      "keywords": ["tomato paste"],
+      "response": "You can use tomato sauce or crushed tomatoes as a substitute for tomato paste."
+    },
+    {
+      "intent": "substitute_crushed_tomatoes",
+      "keywords": ["crushed tomatoes"],
+      "response": "You can use tomato sauce or tomato paste and water as a substitute for crushed tomatoes."
+    },
+    {
+      "intent": "substitute_ketchup",
+      "keywords": ["ketchup"],
+      "response": "You can use tomato paste and vinegar or tomato sauce as a substitute for ketchup."
+    },
+    {
+      "intent": "substitute_mustard",
+      "keywords": ["mustard"],
+      "response": "You can use mustard powder or horseradish as a substitute for mustard."
+    },
+    {
+      "intent": "substitute_mayonnaise",
+      "keywords": ["mayonnaise"],
+      "response": "You can use Greek yogurt or sour cream as a substitute for mayonnaise."
+    },
+    {
+      "intent": "substitute_sour_cream",
+      "keywords": ["sour cream"],
+      "response": "You can use Greek yogurt or mayonnaise as a substitute for sour cream."
+    },
+    {
+      "intent": "substitute_greek_yogurt",
+      "keywords": ["greek yogurt"],
+      "response": "You can use sour cream or mayonnaise as a substitute for Greek yogurt."
+    },
+    {
+      "intent": "substitute_cheese",
+      "keywords": ["cheese"],
+      "response": "You can use nutritional yeast or tofu as a substitute for cheese."
+    },
+    {
+      "intent": "substitute_cream_cheese",
+      "keywords": ["cream cheese"],
+      "response": "You can use Greek yogurt or ricotta cheese as a substitute for cream cheese."
+    },
+    {
+      "intent": "substitute_ricotta_cheese",
+      "keywords": ["ricotta cheese"],
+      "response": "You can use cottage cheese or Greek yogurt as a substitute for ricotta cheese."
+    },
+    {
+      "intent": "substitute_cottage_cheese",
+      "keywords": ["cottage cheese"],
+      "response": "You can use ricotta cheese or Greek yogurt as a substitute for cottage cheese."
+    },
+    {
+      "intent": "substitute_parmesan_cheese",
+      "keywords": ["parmesan cheese"],
+      "response": "You can use nutritional yeast or Pecorino Romano as a substitute for Parmesan cheese."
+    },
+    {
+      "intent": "substitute_pecorino_romano",
+      "keywords": ["pecorino romano"],
+      "response": "You can use Parmesan cheese or nutritional yeast as a substitute for Pecorino Romano."
+    },
+    {
+      "intent": "substitute_breadcrumbs",
+      "keywords": ["breadcrumbs"],
+      "response": "You can use crushed crackers, oats, or cornflakes as a substitute for breadcrumbs."
+    },
+    {
+      "intent": "substitute_cornflakes",
+      "keywords": ["cornflakes"],
+      "response": "You can use breadcrumbs or crushed crackers as a substitute for cornflakes."
+    },
+    {
+      "intent": "substitute_crackers",
+      "keywords": ["crackers"],
+      "response": "You can use breadcrumbs or cornflakes as a substitute for crackers."
+    }
+  ]
+  

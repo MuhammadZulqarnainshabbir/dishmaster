@@ -1,0 +1,52 @@
+[
+    {
+      "intent": "recipe_search",
+      "keywords": ["recipes", "recipe", "search recipes", "search"],
+      "response": "Searching for recipes",
+      "question": "",
+      "context": "menu"
+    },
+    {
+      "intent": "ingredient_substitution",
+      "keywords": ["substitution", "substitute", "ingredient substitution", "ingredient substitute"],
+      "response": "Finding ingredient substitutions",
+      "question": "",
+      "context": "menu"
+    },
+    {
+      "intent": "nutritional_information",
+      "keywords": ["nutrition", "nutritional information", "calories", "nutritional value"],
+      "response": "Fetching nutritional information",
+      "question": "",
+      "context": "menu"
+    },
+    {
+      "intent": "store_recipe",
+      "keywords": ["store recipe", "save recipe", "store", "save"],
+      "response": "Storing the recipe",
+      "question": "",
+      "context": "menu"
+    },
+    {
+      "intent": "meal_planning",
+      "keywords": ["meal planning", "plan meals", "meal plan", "plan"],
+      "response": "Planning your meals",
+      "question": "",
+      "context": "menu"
+    },
+    {
+      "intent": "cooking_tips",
+      "keywords": ["cooking tips", "tips", "cooking advice", "advice"],
+      "response": "Providing cooking tips",
+      "question": "",
+      "context": "menu"
+    },
+    {
+      "intent": "quit",
+      "keywords": ["quit", "exit", "stop", "end"],
+      "response": "Goodbye! If you need further assistance, feel free to start a new conversation.",
+      "question": "",
+      "context": "menu"
+    }
+  ]
+  

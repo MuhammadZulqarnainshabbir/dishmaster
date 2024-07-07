@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "name": "Spaghetti Carbonara",
+    "ingredients": [
+      "spaghetti",
+      "eggs",
+      "parmesan cheese",
+      "bacon",
+      "black pepper"
+    ],
+    "nutrition": "500 calories per serving"
+  },
+  {
+    "id": "2",
+    "name": "Vegetarian Tacos",
+    "ingredients": [
+      "tortillas",
+      "black beans",
+      "corn",
+      "avocado",
+      "salsa"
+    ],
+    "nutrition": "300 calories per serving"
+  },
+  {
+    "id": "3",
+    "name": "Chicken Stir-fry",
+    "ingredients": [
+      "chicken breast",
+      "broccoli",
+      "soy sauce",
+      "ginger",
+      "garlic"
+    ],
+    "nutrition": "400 calories per serving"
+  },
+  {
+    "id": "4",
+    "userId": "user_lxr6jgt13",
+    "name": "Naan",
+    "ingredients": [
+      "Wheat",
+      " Water",
+      " Salt"
+    ],
+    "nutrition": "200 Calories"
+  },
+  {
+    "id": "5",
+    "userId": "user_cvzdyz5d7",
+    "name": "Swaggy Gujjar",
+    "ingredients": [
+      "Swag",
+      " Guj"
+    ],
+    "nutrition": "69, 420"
+  }
+]
